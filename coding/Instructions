@@ -1,0 +1,2 @@
+Unfortunately, Folium maps do not load on Github, so I took screenshots of them. You are free to download the files and open them with Python/Jupyter, where the maps will load.
+Both maps are totally interactive, with an adapting rendering as you zoom-in and out.
